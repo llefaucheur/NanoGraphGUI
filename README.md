@@ -4,15 +4,15 @@ The tool generates a YAML file from a graph designed for a specific platform.
 
 Click on **GUI.html**
 
-The graph is made of nodes is selected from a list of software vendors (right column) :
+The graph is made of nodes, selected from a list of software vendors (right column) :
 
 ![](doc_node_developers.png)
 
-The tool helps a system integrator connecting the input streams (light blue boxes) to output streams (light red boxes) :
+The tool helps a system integrator designing a stream-based processing graph by connecting the input streams (light blue boxes) to the processing nodes, and the result to output streams (light red boxes) :
 
 ![](doc_graph.png)
 
-The boxes allow setting specific parameters ("presets") or more complex descriptions from a file ("scripts") :
+Clicking on the boxes allow setting specific parameters ("presets") or more complex descriptions from a file ("scripts") :
 
 ![](doc_node_parameters.png)
 
